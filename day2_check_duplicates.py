@@ -14,4 +14,4 @@ def check_duplicates(list1):
     else:
         return "No duplicates"
 
-print(check_duplicates(['apple','banana','orange','banana']))
+print(check_duplicates(['apple','banana','orange','banana','orange']))
